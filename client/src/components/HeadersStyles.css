@@ -1,0 +1,18 @@
+.heading{
+    font-size: 65px;
+    background-color: grey;
+    color: white;
+    margin: 0;
+}
+.header_container{
+    text-decoration: none;
+}
+.nav-link{
+    margin-top: -15px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: gray;
+}
